@@ -1,0 +1,6 @@
+[ 2023-06-01 20:19:19,154 ] 186 werkzeug - WARNING -  * Debugger is active!
+[ 2023-06-01 20:19:19,172 ] 186 werkzeug - INFO -  * Debugger PIN: 143-113-772
+[ 2023-06-01 20:19:37,956 ] 9 root - INFO - We are testing the second method of logging functionality
+[ 2023-06-01 20:19:37,956 ] 186 werkzeug - INFO - 127.0.0.1 - - [01/Jun/2023 20:19:37] "GET / HTTP/1.1" 200 -
+[ 2023-06-01 20:19:38,237 ] 186 werkzeug - INFO - 127.0.0.1 - - [01/Jun/2023 20:19:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2023-06-01 20:45:42,088 ] 186 werkzeug - INFO -  * Detected change in 'C:\\Users\\Aditya\\OneDrive\\Documents\\DataScience\\SA\\ml-project\\ml-pipeline-project\\src\\exception.py', reloading
